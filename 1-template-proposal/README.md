@@ -33,3 +33,4 @@ Nama pemilik | string | Reza
 Koordinat | poin | 106.03794 -6.39284693
 
 ## Mockup UX
+![Alur aplikasi](mockup.png)
