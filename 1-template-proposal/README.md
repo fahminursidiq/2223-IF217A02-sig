@@ -28,7 +28,8 @@ Provinsi | String | Jawa Barat
 Nama Atribut | Tipe Data | Contoh
 ---|---|---
 UUID | string | ooj73849r734mf34r3
-Nama user | string | dahmun
+Nama user | string | Dimas
+Nama pemilik | string | Reza
 Koordinat | poin | 106.03794 -6.39284693
 
 ## Mockup UX
